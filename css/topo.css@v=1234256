@@ -1,0 +1,10 @@
+.topo {
+    background-color: #2f4eb5 !important;
+    padding: 1rem !important;
+    margin-bottom: 1.2rem !important;
+}
+
+.topo img {
+    width: 150px !important;
+    max-width: 50% !important;
+}
